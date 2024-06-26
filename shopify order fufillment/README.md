@@ -25,8 +25,8 @@ or modify it as needed.
 
 1. **Clone the repository:**
 1. ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/kolj6386/shopify-order-fufillment-script.git
+   cd shopify-order-fufillment-script
 
 2. Restore dependencies
 	```bash
